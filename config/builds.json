@@ -1,0 +1,266 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-05",
+    "characters": [
+        {
+            "id": "jane_doe",
+            "name": "Jane Doe",
+            "aliases": [
+                "Jane",
+                "Rat",
+                "Undercover"
+            ],
+            "priorities": [
+                "AP",
+                "AM",
+                "ATK%",
+                "PEN"
+            ],
+            "mainStats": {
+                "slot4": "Anomaly Proficiency",
+                "slot5": "Physical DMG",
+                "slot6": "Anomaly Mastery"
+            },
+            "advisor": "Jane cực kỳ phụ thuộc vào Anomaly Proficiency (AP) để tối ưu hóa sát thương Assault. Cố gắng đạt mốc 420 AP để tối đa hóa tỷ lệ Crit của đòn tấn công bất thường.",
+            "recommendationReasons": [
+                "AP tăng trực tiếp sát thương Assault và tỷ lệ bạo kích bất thường",
+                "Anomaly Mastery giúp tích tụ thanh bất thường nhanh hơn",
+                "Physical DMG là lựa chọn tối ưu vì cô gây sát thương vật lý liên tục"
+            ]
+        },
+        {
+            "id": "caesar_king",
+            "name": "Caesar King",
+            "aliases": [
+                "Caesar",
+                "King",
+                "Leader"
+            ],
+            "priorities": [
+                "Impact",
+                "ATK%",
+                "ER",
+                "HP%"
+            ],
+            "mainStats": {
+                "slot4": "ATK%",
+                "slot5": "Physical DMG",
+                "slot6": "Impact"
+            },
+            "advisor": "Dù là nhân vật Thủ Hộ (Defense), Caesar cung cấp buff dựa trên Impact và khả năng choáng. Slot 6 Impact là bắt buộc để tối ưu khả năng hỗ trợ đồng đội.",
+            "recommendationReasons": [
+                "Impact tăng khả năng gây choáng và độ dày của khiên",
+                "ER giúp duy trì khả năng phản đòn và buff liên tục",
+                "Physical DMG hỗ trợ sát thương cá nhân khi thực hiện Perfect Block"
+            ]
+        },
+        {
+            "id": "burnice_white",
+            "name": "Burnice White",
+            "aliases": [
+                "Burnice",
+                "Mixer",
+                "FireGirl"
+            ],
+            "priorities": [
+                "AP",
+                "ATK%",
+                "ER",
+                "AM"
+            ],
+            "mainStats": {
+                "slot4": "Anomaly Proficiency",
+                "slot5": "Fire DMG",
+                "slot6": "Energy Regeneration"
+            },
+            "advisor": "Burnice là nhân vật Bất Thường (Anomaly) đánh từ ngoài sân. Chỉ số ER cao giúp cô luôn có đủ năng lượng để kích hoạt trạng thái Heat khi swap vào.",
+            "recommendationReasons": [
+                "AP tăng sát thương thiêu đốt (Burn) khi cô không ở trên sân",
+                "ER đảm bảo tần suất sử dụng EX Special để tích thanh Heat",
+                "Fire DMG tối ưu hóa sát thương từ các đòn phối hợp"
+            ]
+        },
+        {
+            "id": "hoshimi_miyabi",
+            "name": "Hoshimi Miyabi",
+            "aliases": [
+                "Miyabi",
+                "Section6",
+                "Katana"
+            ],
+            "priorities": [
+                "CR",
+                "CD",
+                "ATK%",
+                "Ice DMG"
+            ],
+            "mainStats": {
+                "slot4": "CD",
+                "slot5": "Ice DMG",
+                "slot6": "ATK%"
+            },
+            "advisor": "Miyabi là chủ lực hệ Băng với tốc độ đánh cực cao. Ưu tiên cân bằng CR/CD để tối ưu hóa các nhát chém Frostbite.",
+            "recommendationReasons": [
+                "Tối đa hóa sát thương Ice thông qua các kỹ năng đặc biệt",
+                "Tỷ lệ CR/CD ổn định giúp các đòn kết liễu đạt sát thương cực đại",
+                "ATK% slot 6 là lựa chọn cân bằng nhất cho các DPS thuần túy"
+            ]
+        },
+        {
+            "id": "qingyi",
+            "name": "Qingyi",
+            "aliases": [
+                "Cyborg",
+                "Officer",
+                "Qing"
+            ],
+            "priorities": [
+                "Impact",
+                "ATK%",
+                "ER",
+                "CR"
+            ],
+            "mainStats": {
+                "slot4": "CR",
+                "slot5": "Electric DMG",
+                "slot6": "Impact"
+            },
+            "advisor": "Qingyi cần Impact để tối đa hóa sát thương Choáng và tích lũy tầng nhân sát thương Choáng. Đừng quên một chút CR vì cô ấy có tần suất đánh rất cao.",
+            "recommendationReasons": [
+                "Impact Slot 6 là ưu tiên hàng đầu cho bộ kỹ năng khống chế",
+                "Tốc độ đánh cao giúp tận dụng tốt tỷ lệ CR",
+                "Electric DMG giúp tăng sát thương khi đứng sân lâu"
+            ]
+        },
+        {
+            "id": "rina",
+            "name": "Alexandrina Sebastia",
+            "aliases": [
+                "Rina",
+                "Maid",
+                "Victoria"
+            ],
+            "priorities": [
+                "PEN Ratio",
+                "ER",
+                "ATK%",
+                "Electric DMG"
+            ],
+            "mainStats": {
+                "slot4": "ATK%",
+                "slot5": "Electric DMG",
+                "slot6": "Energy Regeneration"
+            },
+            "advisor": "Buff xuyên giáp của Rina dựa trên chỉ số PEN Ratio của chính cô ấy. Hãy cố gắng build PEN Ratio ở các dòng phụ của đĩa đệm.",
+            "recommendationReasons": [
+                "PEN Ratio cung cấp khả năng hỗ trợ xuyên giáp cho toàn đội",
+                "ER cao giúp duy trì việc triệu hồi các con rối liên tục",
+                "Electric DMG tăng sát thương hỗ trợ từ ngoài sân"
+            ]
+        },
+        {
+            "id": "soukaku",
+            "name": "Soukaku",
+            "aliases": [
+                "Blue",
+                "Oni",
+                "Foodie"
+            ],
+            "priorities": [
+                "ATK%",
+                "ER",
+                "Ice DMG",
+                "AP"
+            ],
+            "mainStats": {
+                "slot4": "ATK%",
+                "slot5": "Ice DMG",
+                "slot6": "ATK%"
+            },
+            "advisor": "Buff tấn công của Soukaku tỉ lệ thuận với tấn công hiện tại của cô ấy (tối đa 2500 ATK). Hãy ưu tiên dồn ATK% ở cả dòng chính và dòng phụ.",
+            "recommendationReasons": [
+                "Stack ATK% để đạt ngưỡng tối đa của buff truyền cho đồng đội",
+                "Ice DMG giúp tăng sát thương hỗ trợ khi cô ấy thực hiện hỗ trợ tấn công",
+                "ER đảm bảo cô ấy luôn có EX Special để kích hoạt Flag"
+            ]
+        },
+        {
+            "id": "nicole",
+            "name": "Nicole Demara",
+            "aliases": [
+                "Nicole",
+                "Cunning",
+                "Leader"
+            ],
+            "priorities": [
+                "ER",
+                "AP",
+                "Ether DMG",
+                "AM"
+            ],
+            "mainStats": {
+                "slot4": "Anomaly Proficiency",
+                "slot5": "Ether DMG",
+                "slot6": "Energy Regeneration"
+            },
+            "advisor": "Nicole chủ yếu dùng để gom quái và giảm giáp. Chỉ số quan trọng nhất là ER để cô ấy có thể spam lỗ đen liên tục.",
+            "recommendationReasons": [
+                "ER cực kỳ quan trọng để duy trì khống chế và giảm giáp",
+                "Ether DMG tối ưu hóa sát thương nổ của lỗ đen",
+                "AP giúp hỗ trợ tích lũy hiệu ứng Corruption nhanh hơn"
+            ]
+        },
+        {
+            "id": "grace",
+            "name": "Grace Howard",
+            "aliases": [
+                "Grace",
+                "Engineer",
+                "Belobog"
+            ],
+            "priorities": [
+                "AP",
+                "AM",
+                "ATK%",
+                "PEN"
+            ],
+            "mainStats": {
+                "slot4": "Anomaly Proficiency",
+                "slot5": "Electric DMG",
+                "slot6": "Anomaly Mastery"
+            },
+            "advisor": "Grace là nguồn gây Shock chính. Tốc độ đánh và khả năng tích tích điện phụ thuộc hoàn toàn vào AM và AP.",
+            "recommendationReasons": [
+                "AP là chỉ số cốt lõi để Shock đau hơn",
+                "AM Slot 6 giúp kích hoạt trạng thái Shock gần như tức thì",
+                "Electric DMG tăng sát thương tổng thể cho bộ kỹ năng điện"
+            ]
+        },
+        {
+            "id": "seth",
+            "name": "Seth Lowell",
+            "aliases": [
+                "Seth",
+                "Cat",
+                "Police"
+            ],
+            "priorities": [
+                "ATK%",
+                "ER",
+                "Impact",
+                "Anomaly Proficiency"
+            ],
+            "mainStats": {
+                "slot4": "ATK%",
+                "slot5": "ATK%",
+                "slot6": "Energy Regeneration"
+            },
+            "advisor": "Khiên của Seth tỉ lệ thuận với tấn công của anh ấy. Ngoài ra anh ấy còn buff AP cho đồng đội, rất hợp đi cùng Jane Doe.",
+            "recommendationReasons": [
+                "Double ATK% ở Slot 4 và 5 để tối đa hóa lượng Khiên",
+                "ER giúp duy trì việc nạp đạn và tạo khiên cho DPS",
+                "Tăng khả năng sinh tồn và hỗ trợ cho team Anomaly"
+            ]
+        }
+    ]
+}

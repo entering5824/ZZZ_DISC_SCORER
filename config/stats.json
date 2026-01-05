@@ -1,0 +1,163 @@
+{
+    "stats": [
+        {
+            "id": "HP",
+            "name": "HP",
+            "aliases": [
+                "HP",
+                "HEALTH"
+            ]
+        },
+        {
+            "id": "ATK",
+            "name": "ATK",
+            "aliases": [
+                "ATK",
+                "ATTACK"
+            ]
+        },
+        {
+            "id": "DEF",
+            "name": "DEF",
+            "aliases": [
+                "DEF",
+                "DEFENSE"
+            ]
+        },
+        {
+            "id": "HP%",
+            "name": "HP%",
+            "aliases": [
+                "HP%",
+                "HEALTH%",
+                "HP PERCENT"
+            ]
+        },
+        {
+            "id": "ATK%",
+            "name": "ATK%",
+            "aliases": [
+                "ATK%",
+                "ATTACK%",
+                "ATK PERCENT"
+            ]
+        },
+        {
+            "id": "DEF%",
+            "name": "DEF%",
+            "aliases": [
+                "DEF%",
+                "DEFENSE%",
+                "DEF PERCENT"
+            ]
+        },
+        {
+            "id": "CR",
+            "name": "CR",
+            "aliases": [
+                "CR",
+                "CRIT RATE",
+                "CRITRATE"
+            ]
+        },
+        {
+            "id": "CD",
+            "name": "CD",
+            "aliases": [
+                "CD",
+                "CRIT DMG",
+                "CRITDMG",
+                "CRIT DAMAGE"
+            ]
+        },
+        {
+            "id": "AP",
+            "name": "AP",
+            "aliases": [
+                "AP",
+                "ANOMALY PROFICIENCY",
+                "ANOMALYPROFICIENCY"
+            ]
+        },
+        {
+            "id": "AM",
+            "name": "AM",
+            "aliases": [
+                "AM",
+                "ANOMALY MASTERY",
+                "ANOMALYMASTERY"
+            ]
+        },
+        {
+            "id": "PEN",
+            "name": "PEN",
+            "aliases": [
+                "PEN",
+                "PENETRATION"
+            ]
+        },
+        {
+            "id": "PEN%",
+            "name": "PEN%",
+            "aliases": [
+                "PEN%",
+                "PENETRATION%"
+            ]
+        },
+        {
+            "id": "ER",
+            "name": "ER",
+            "aliases": [
+                "ER",
+                "ENERGY REGEN",
+                "ENERGYREGEN"
+            ]
+        },
+        {
+            "id": "Pen Ratio",
+            "name": "Pen Ratio",
+            "aliases": [
+                "Pen Ratio",
+                "PEN RATIO",
+                "PENETRATION RATIO"
+            ]
+        },
+        {
+            "id": "DMG Bonus",
+            "name": "DMG Bonus",
+            "aliases": [
+                "DMG Bonus",
+                "DMG BONUS",
+                "DAMAGE BONUS"
+            ]
+        },
+        {
+            "id": "Impact",
+            "name": "Impact",
+            "aliases": [
+                "Impact",
+                "IMPACT"
+            ]
+        }
+    ],
+    "templates": {
+        "default": {
+            "name": "Default Template",
+            "substats": [
+                "ATK",
+                "ATK%",
+                "CR",
+                "CD"
+            ]
+        },
+        "miyabi": {
+            "name": "Miyabi Example",
+            "substats": [
+                "ATK%",
+                "CR",
+                "CD",
+                "AP"
+            ]
+        }
+    }
+}
