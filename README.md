@@ -136,5 +136,3 @@ Issues and enhancement requests are welcome.
 ## License
 
 This project is private and intended for personal use.
-
-``````
