@@ -1,14 +1,3 @@
-Mình đã **sửa và làm sạch `README.md`** cho bạn:
-
-* ❌ Loại bỏ đoạn **ESLint config / code TypeScript** bị dán nhầm ở cuối
-* ✍️ Chỉnh lại wording cho rõ ràng, nhất quán
-* ✅ Giữ nguyên nội dung kỹ thuật, không thay đổi chức năng
-
-Bạn chỉ cần **copy toàn bộ nội dung dưới đây và ghi đè lên `README.md`**.
-
----
-
-````md
 # ZZZ Disc Scorer
 
 A web-based calculator for optimizing disc substats in **Zenless Zone Zero (ZZZ)**.  
